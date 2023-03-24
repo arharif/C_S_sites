@@ -1,2 +1,10 @@
 # C_S_sites
 Cyber security sites 
+
+# [SuperTool website](https://mxtoolbox.com/SuperTool.aspx)
+ All of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool.  Input a domain name or IP Address or Host Name. Links in the results will guide you to other relevant tools and information.  And you'll have a chronological history of your results. 
+# [SSL Shopper](https://www.sslshopper.com/ssl-checker.html)
+Use our fast SSL Checker to help you quickly diagnose problems with your SSL certificate installation. You can verify the SSL certificate on your web server to make sure it is correctly installed, valid, trusted and doesn't give any errors to any of your users. To use the SSL Checker, simply enter your server's public hostname (internal hostnames aren't supported) in the box below and click the Check SSL button. If you need an SSL certificate, check out the SSL Wizard.
+# [explainshell](https://explainshell.com/)
+write down a command-line to see the help text that matches each argument
+try showthedocs for explaining other languages
