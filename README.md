@@ -9,3 +9,5 @@ Use our fast SSL Checker to help you quickly diagnose problems with your SSL cer
 write down a command-line to see the help text that matches each argument
 try showthedocs for explaining other languages
 # [CyberChef](https://gchq.github.io/CyberChef/)
+# [haveibeenpwned](https://haveibeenpwned.com/)
+Check if your email or phone is in a data breach
