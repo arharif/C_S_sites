@@ -1,5 +1,7 @@
 # Useful WebSites & Links  
 
+# #[Exploit-db](https://www.exploit-db.com/)
+# [CVE details](https://www.cvedetails.com/)
 
 # [SuperTool website](https://mxtoolbox.com/SuperTool.aspx)
  All of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool.  Input a domain name or IP Address or Host Name. Links in the results will guide you to other relevant tools and information.  And you'll have a chronological history of your results. 
