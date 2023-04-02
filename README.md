@@ -1,6 +1,6 @@
 # Useful WebSites & Links  
 
-# [Exploit-db](https://www.exploit-db.com/)
+# [Exploit-db](https://www.exploit-db.com/) [searchsploit](https://www.exploit-db.com/searchsploit)
 The Exploit Database - Exploits, Shellcode, 0days, Remote Exploits, Local Exploits, Web Apps, Vulnerability Reports, Security Articles, Tutorials and more.
 # [CVE details](https://www.cvedetails.com/)
  provides an easy to use web interface to CVE vulnerability data. You can browse for vendors, products and versions and view cve entries, ...
@@ -17,6 +17,7 @@ Use our fast SSL Checker to help you quickly diagnose problems with your SSL cer
 write down a command-line to see the help text that matches each argument
 try showthedocs for explaining other languages
 # [CyberChef](https://gchq.github.io/CyberChef/)
+The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.
 # [haveibeenpwned](https://haveibeenpwned.com/)
 Check if your email or phone is in a data breach
 
