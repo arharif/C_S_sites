@@ -1,8 +1,13 @@
 # Useful WebSites & Links  
 
 # [Exploit-db](https://www.exploit-db.com/)
+The Exploit Database - Exploits, Shellcode, 0days, Remote Exploits, Local Exploits, Web Apps, Vulnerability Reports, Security Articles, Tutorials and more.
 # [CVE details](https://www.cvedetails.com/)
+ provides an easy to use web interface to CVE vulnerability data. You can browse for vendors, products and versions and view cve entries, ...
 # [Packet storm security](https://packetstormsecurity.com/)
+Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers.
+# CTF write-ups
+Search in Google
 
 # [SuperTool website](https://mxtoolbox.com/SuperTool.aspx)
  All of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool.  Input a domain name or IP Address or Host Name. Links in the results will guide you to other relevant tools and information.  And you'll have a chronological history of your results. 
