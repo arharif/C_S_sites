@@ -1,6 +1,6 @@
 # Useful WebSites & Links  
 
-# #[Exploit-db](https://www.exploit-db.com/)
+# [Exploit-db](https://www.exploit-db.com/)
 # [CVE details](https://www.cvedetails.com/)
 
 # [SuperTool website](https://mxtoolbox.com/SuperTool.aspx)
