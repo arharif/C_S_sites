@@ -1,5 +1,8 @@
 # Useful WebSites & Links  
 
+# [thehackernews](https://thehackernews.com/)
+# [Infosec writeups](https://infosecwriteups.com/)
+# [databreachtoday](https://www.databreachtoday.com/)
 # [Exploit-db](https://www.exploit-db.com/) [searchsploit](https://www.exploit-db.com/searchsploit)
 The Exploit Database - Exploits, Shellcode, 0days, Remote Exploits, Local Exploits, Web Apps, Vulnerability Reports, Security Articles, Tutorials and more.
 # [CVE details](https://www.cvedetails.com/)
